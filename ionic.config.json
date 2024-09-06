@@ -1,0 +1,7 @@
+{
+  "name": "dispatch",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
